@@ -1,0 +1,3 @@
+https://tw.stock.yahoo.com/q/ta?s={0}
+https://goodinfo.tw/StockInfo/StockDividendPolicy.asp?STOCK_ID={0}
+https://goodinfo.tw/StockInfo/StockDividendSchedule.asp?STOCK_ID={0}
